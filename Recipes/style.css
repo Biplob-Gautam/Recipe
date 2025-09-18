@@ -38,7 +38,7 @@ a{
     width: max-content;
 }
 
-ol .steps{
+.steps{
     font-weight: 700;
     text-decoration: underline;
 }
