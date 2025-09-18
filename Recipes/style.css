@@ -1,0 +1,44 @@
+body{
+    background-color: bisque;
+}
+
+h3{
+    font-size: 24px;
+    text-align: justify;
+    color: bisque;
+}
+.recipe_holder{
+    background-color: OKLCH(30.2% 0.056 229.695);
+    width: 950px;
+    color : white;
+    border : 3px solid darkred;
+    margin: auto;
+    padding: 20px;
+    line-height: 1.5;
+    font-family: "Dancing Script", "Segoe UI", cursive;
+}
+
+.recipe_name{
+    text-align: center;
+    color:bisque;
+    font-size: 45px;
+}
+
+img{
+   height: auto;
+    width: 400px;
+    display:block;
+    margin : 0 auto;
+}
+
+a{
+    display: block;
+    margin: 0px auto;
+    color: bisque;
+    width: max-content;
+}
+
+ol .steps{
+    font-weight: 700;
+    text-decoration: underline;
+}
